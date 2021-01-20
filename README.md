@@ -20,7 +20,7 @@
     return `I am currently working on a ${projectName}.`;
   }
 
-  newProject("Furthuring the depth of my Python knowledge!");
+  newProject("CitySpire, a one stop application for those looking for city information!");
 ```
 
 
