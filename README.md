@@ -8,8 +8,8 @@
 
 - 🔧 My current skills...
 ```javascript
-  const frontEnd = ["HTML", "CSS", "JavaScript", "React", "Redux"];
-  const backEnd = ["NodeJS", "Express", "Knex", "PostgreSQL"];
+  const frontEnd = ["HTML", "CSS", "JavaScript", "React", "Redux", "Vue"];
+  const backEnd = ["NodeJS", "Express", "Knex", "PostgreSQL", "AWS DynamoDb"];
   const other = ["Python"];
 ```
 
@@ -20,19 +20,18 @@
     return `I am currently working on a ${projectName}.`;
   }
 
-  newProject("CitySpire, a one stop application for those looking for city information!");
+  newProject("Crestvie.io");
 ```
 
 
 - 🌱 I’m currently learning...
-```python
-  language = "Python"
-  other = (Python ("Algorithms", "Data Structures")
+```Vue
+  language = "Vue.js"
 ```
 
 
 - 👯 I’m looking to collaborate on...
-```python
+```Anything
   string = "Anything that I can lend a helping hand with!"
 ```
 
@@ -61,8 +60,6 @@
   ```HTML
   <a href = "mailto: cwtownley@gmail.com">Send Email</a>
   <a href = "https://www.linkedin.com/in/cody-townley-56a351a3/">LinkedIN</a>
-
-<!-- - 😄 Pronouns: He/His/Him -->
 
 
 - ⚡ Fun fact about me...
